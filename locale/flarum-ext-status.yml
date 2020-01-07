@@ -1,0 +1,19 @@
+clarkwinkelmann-status:
+    admin:
+        settings:
+            title: Status Instellingen
+            only-countries: Alleen land vlaggen
+            enable-text: Text status toestaan
+        permissions:
+            see: Status weergeven
+            set: Definieer status
+            mod: Modereer gebruikers status
+
+    forum:
+        menu:
+            set-status: Stel een status in
+        modal:
+            title: Status instellen
+            text-placeholder: Hoe gaat het ermee?
+            submit: Activeren
+            clear: Verwijderen
